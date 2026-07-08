@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hudson Hardwick
 
-<!--
-**hardwick-hudson/hardwick-hudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad building small, finished tools.
 
-Here are some ideas to get you started:
+**Recent work**
+- [csv-validator](https://github.com/hardwick-hudson/csv-validator) — Java
+  CLI that validates CSVs against declared column rules. Tested both
+  directions, script-friendly exit codes, tagged at v1.0.
+- [csv-analyzer](https://github.com/hardwick-hudson/csv-analyzer) — a
+  browser-based analyzer that finds data problems *without* being told the
+  rules: type inference, anomaly flags, plain-English summaries, fully
+  client-side. [Live demo](https://hardwick-hudson.github.io/csv-analyzer/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fan of honest READMEs and boring solutions. 
