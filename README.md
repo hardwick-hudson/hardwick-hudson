@@ -14,4 +14,4 @@ CS grad building small, finished tools.
   rules: type inference, anomaly flags, plain-English summaries, fully
   client-side. [Live demo](https://hardwick-hudson.github.io/csv-analyzer/).
 
-Fan of honest READMEs and boring solutions. 
+
